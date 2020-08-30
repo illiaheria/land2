@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dde91e89-190d-4496-843d-f4dcf19dd41d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g3ld3ERBm6MY5nSQaAyRJ7nZo5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/betOn/sdk/beton-sdk/src/main/app" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dde91e89-190d-4496-843d-f4dcf19dd41d" name="Default Changelist" comment="" />
+      <created>1597351240984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597351240984</updated>
+      <workItem from="1597351242028" duration="29000" />
+      <workItem from="1597396128344" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597396171227">
+      <screen x="0" y="27" width="1853" height="1053" />
+    </state>
+    <state x="709" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1853.1053@0.27.1853.1053" timestamp="1597396171227" />
+    <state x="521" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597351263113">
+      <screen x="0" y="27" width="1853" height="1053" />
+    </state>
+    <state x="521" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1853.1053@0.27.1853.1053" timestamp="1597351263113" />
+  </component>
+</project>
